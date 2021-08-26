@@ -1,0 +1,9 @@
+.computer-label{
+    -fx-font-size: 18;
+}
+
+.computer-button{
+    -fx-pref-height: 40px;
+    -fx-pref-width: 40px;
+
+}
